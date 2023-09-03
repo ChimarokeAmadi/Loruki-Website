@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Smokum&display=swap');
 
 :root {
-    --primary-color:#047aed
+    --primary-color:#047aed;
+    --secondary-color:#1c3fa8;
+    --dark-color:#002240;
+    --light-color:hsla(250, 56%, 89%, 0.89);
 }
 * {
     box-sizing: border-box;
@@ -157,3 +160,7 @@ img {
     grid-row: 1/span 3;
 }
 
+/* Cloud */
+.cloud .grid {
+    grid-column: 4fr 3fr;
+}
