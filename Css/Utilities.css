@@ -49,7 +49,12 @@
     background-color: var(--dark-color);
     color: #fff;
 }
-.footer a {
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
     color: #fff;
 }
 .bg-light,
