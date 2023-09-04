@@ -49,6 +49,9 @@
     background-color: var(--dark-color);
     color: #fff;
 }
+.footer a {
+    color: #fff;
+}
 .bg-light,
 .btn-light {
     background-color: var(--light-color);
