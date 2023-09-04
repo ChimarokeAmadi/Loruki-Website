@@ -88,7 +88,9 @@
     font-size: 4rem;
 }
 
-
+.bold{
+    font-weight: 600;
+}
 
 .flex {
     display: flex;
