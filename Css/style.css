@@ -211,8 +211,11 @@ img {
    grid-column: 1 / span 2;
 }
 
-
-
+/* Documentation */
+.docs-head img {
+    width: 200px;
+    justify-self: flex-end;
+}
 
 /* Footer */
 .footer .socials a {
