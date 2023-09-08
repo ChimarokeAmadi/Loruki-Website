@@ -242,6 +242,10 @@ pre {
     font-weight: bold;
 }
 
+.alert i {
+    margin-right: 5px;
+}
+
 /* Footer */
 .footer .socials a {
     margin: 0px 10px;
